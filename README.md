@@ -150,7 +150,6 @@ Please make sure you have the correct access rights and that the repository exis
 ```
 
 **8. Raise a Pull Request:**
-https://github.com/GSSoC24/being-an-GSSoc24
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! ![createpr]
 
