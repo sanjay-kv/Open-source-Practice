@@ -1,3 +1,6 @@
+Name - Mitul Dwivedi
+github link - https://github.com/Mitul1927
+
 # Open-source-Practice
 GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
 
