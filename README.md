@@ -284,8 +284,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **Y**
-  - 
-| [`Back To Top`](#contents) |
+  - [Yash Tyagi](https://github.com/yash-tyagi-2003)
 
 - ### **Z**
   - 
