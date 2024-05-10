@@ -195,7 +195,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **D**
   - [Dipesh Mittal](https://github.com/zeeno2616)
-  - [Debasis Sikdar](https://github.com/DebasisX))
+  - [Debasis Sikdar](https://github.com/DebasisX)
 | [`Back To Top`](#contents) |
 
 - ### **E**
