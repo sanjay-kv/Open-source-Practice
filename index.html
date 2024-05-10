@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Shopping Website</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Basic CSS Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+        }
+        /* Header Styles */
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        /* Navigation Styles */
+        nav {
+            background-color: #212529;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+        }
+        nav ul li {
+            display: inline-block;
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        nav ul li a:hover {
+            background-color: #6c757d;
+        }
+        /* Main Content Styles */
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .product {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            width: calc(30% - 20px); 
+        }
+        .product img {
+            width: 300px;
+          height: 230px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .product h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .product p {
+            margin-bottom: 10px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        /* Featured Section Styles */
+        .featured {
+            background-color: #f8f9fa;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .featured h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .featured p {
+            font-size: 1.1em;
+            margin-bottom: 30px;
+        }
+        .featured .btn {
+            font-size: 1.1em;
+            padding: 10px 20px;
+        }
+        /* Footer Styles */
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;            
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shopping Website</h1>
+        <p>Your one-stop shop for all your needs!</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#shop">Shop</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <div class="product">
+            <img src="https://cdn.pixabay.com/photo/2014/08/26/21/49/jeans-428614_640.jpg" alt="Product 1">
+            <h2>Latest Jeans</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>$19.99</p>
+            <a href="#" class="btn">Add to Cart</a>
+        </div>
+        
+        <div class="product" id="shop">
+            <img src="https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_640.jpg" alt="Product 2">
+            <h2>Laptop</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>$24.99</p>
+            <a href="#" class="btn">Add to Cart</a>
+        </div>
+        <div class="product">
+            <img src="https://cdn.pixabay.com/photo/2015/09/26/09/09/hipster-958806_640.jpg" alt="Product 3">
+            <h2>Watch</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>$15.99</p>
+            <a href="#" class="btn">Add to Cart</a>
+        </div>
+        
+    </div>
+
+    <!-- Featured Section -->
+    <section class="featured">
+        <div class="container">
+            <h2>Featured Products</h2>
+            <p>Check out our latest and greatest products!</p>
+            <a href="#" class="btn">Shop Now</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We are a team of passionate individuals dedicated to providing you with the best shopping experience.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Have any questions or concerns? Feel free to reach out to us!</p>
+            <a href="#" class="btn">Contact Us</a>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Shopping Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
