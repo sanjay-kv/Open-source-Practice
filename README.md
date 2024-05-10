@@ -1,5 +1,4 @@
-Name - Mitul Dwivedi
-github link - https://github.com/Mitul1927
+
 
 # Open-source-Practice
 GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
@@ -234,6 +233,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **M**
+- [Mitul Dwivedi] (https://github.com/Mitul1927)
   - 
 | [`Back To Top`](#contents) |
 
