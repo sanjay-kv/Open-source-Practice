@@ -91,7 +91,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `-ramyad(https://github.com/ramyad06)-'
 
 **5. Stage your changes:**
 
