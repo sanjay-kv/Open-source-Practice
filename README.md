@@ -231,7 +231,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **M**
-  - 
+  - [Mrigaank Jaswal](https://github.com/Mrigaank-9)
+    
 | [`Back To Top`](#contents) |
 
 - ### **N**
