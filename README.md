@@ -3,7 +3,7 @@ GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
 
 ## open-source-practice Pull Requests
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+Repository for you to raise a Pull Request to **practice** open-source! 🎉 
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
