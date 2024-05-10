@@ -172,7 +172,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 
-## `GSSoC24-Community`
+## `GSSoC24-Communi
 
 ### **Contents**
 
