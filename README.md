@@ -182,12 +182,14 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **A**
   - [Aabhirup Paul](https://github.com/paul-abhirup)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
- -  [Anushree mehta](https://github.com/anushreemehta6)
+  - [Anushree mehta](https://github.com/anushreemehta6)
   - [Aryan Karamtoth](https://github.com/spaciouscoder78)
+
 | [`Back To Top`](#contents) |
 
 - ### **B**
   - [Bharat Singh Parihar](https://github.com/bharat3645)
+
 | [`Back To Top`](#contents) |
 
 - ### **C**
@@ -200,14 +202,17 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **D**
   - [Dipesh Mittal](https://github.com/zeeno2616)
+
 | [`Back To Top`](#contents) |
 
 - ### **E**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **F**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **G**
@@ -218,39 +223,47 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **H**
   - 
+
 | [`Back To Top`](#contents) |
 
 
 - ### **I**
   - [Itisha](https://github.com/itishacodes)
+
 | [`Back To Top`](#contents) |
 
 - ### **J**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **K**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **L**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **M**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **N**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **O**
   - 
+
 | [`Back To Top`](#contents) |
 
  - ### **P**
-     - [Piyush Bagde](https://github.com/PiyushBagde)
+    - [Piyush Bagde](https://github.com/PiyushBagde)
     - [Prince Gupta](https://github.com/Princegupta101)
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
     - [Pavan Gowda T S](https://github.com/pavants777)
@@ -259,10 +272,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **Q**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **R**
   - 
+
 | [`Back To Top`](#contents) |
 
  - ### **S**
@@ -272,31 +287,39 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **T**
   - [Teejay](https://github.com/teejay)
+
 | [`Back To Top`](#contents) |
 
 - ### **U**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **V**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **W**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **X**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **Y**
   - 
+
 | [`Back To Top`](#contents) |
 
 - ### **Z**
   - 
+
 | [`Back To Top`](#contents) |
+
 ## Our Pledge
 
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
