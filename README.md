@@ -264,12 +264,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
  - ### **S**
-    -  [Sanjay](https://github.com/sanjay-kv)
+    -  [Sai](https://github.com/SaiKumar297)
    
 | [`Back To Top`](#contents) |
 
 - ### **T**
-  - [Teejay](https://github.com/teejay)
+
 | [`Back To Top`](#contents) |
 
 - ### **U**
