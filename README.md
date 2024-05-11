@@ -293,7 +293,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **Z**
-  - 
+  - [ZEUGANG WILSON PRODIGE](https://github.com/wilsonprodige)
 | [`Back To Top`](#contents) |
 ## Our Pledge
 
