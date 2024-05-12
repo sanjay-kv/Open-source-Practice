@@ -220,8 +220,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **I**
+-  [Ishita Saxena](https://github.com/ShadowyBliss)
   - [Itisha](https://github.com/itishacodes)
 | [`Back To Top`](#contents) |
+  
 
 - ### **J**
   - 
