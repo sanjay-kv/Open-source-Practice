@@ -260,7 +260,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **R**
-  - 
+  - [reezybreeze](https://github.com/sanjay-kv)
 | [`Back To Top`](#contents) |
 
  - ### **S**
