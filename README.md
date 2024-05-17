@@ -241,7 +241,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **N**
-  - 
+  - *[NanoBot](https://github.com/KanishkChhajed)
 | [`Back To Top`](#contents) |
 
 - ### **O**
