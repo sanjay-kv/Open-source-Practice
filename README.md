@@ -88,7 +88,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 **5. Edit the File:**
 ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/2d12a4e1-f18f-4e7d-b74e-590487016c70)
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
