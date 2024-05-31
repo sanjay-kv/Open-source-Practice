@@ -308,7 +308,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vishal Manve](https://github.com/vishalmanve)
 
 - ### **W**
-  - 
+  - [Wenli.Shi]( https://github.com/strawberrydontlie)
 | [`Back To Top`](#contents) |
 
 - ### **X**
