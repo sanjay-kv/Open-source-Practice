@@ -306,6 +306,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **V**
 
   - [Vishal Manve](https://github.com/vishalmanve)
+  - [Vibhu Patel](https://github.com/Vibhu315)
 
 - ### **W**
   - 
