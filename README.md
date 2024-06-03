@@ -12,7 +12,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 ```mermaid
 flowchart LR
     Fork[Fork the project]-->branch[Create a New Branch]
-    branch-->Edit[Edit file]
+    ->Edbranch-it[Edit file]
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
 ```
@@ -235,7 +235,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **J**
   - 
 | [`Back To Top`](#contents) |
-
 - ### **K**
   - 
 | [`Back To Top`](#contents) |
@@ -244,6 +243,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lovely Mahour](https://github.com/lovelymahor)
   - [Likhil N Maiya](https://github.com/lickhill)
   - [Lavany Sai Bollamreddi](https://github.com/lavanyasai-b)
+  - [Lokesh Suwalka](https://github.com/Lokeshsuwalka05)
 | [`Back To Top`](#contents) |
 
 - ### **M**
