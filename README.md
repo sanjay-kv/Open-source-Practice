@@ -321,7 +321,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **Z**
-  - 
+  - [Zubaida Sehnaz](https://github.com/Zubaida0113)
 |- [Zeba](https://github.com/zeba62) |
 ## Our Pledge
 
