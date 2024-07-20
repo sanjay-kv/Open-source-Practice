@@ -10,11 +10,18 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 ### Option 1. Complete this process in GitHub (in your browser)
 
 ```mermaid
-flowchart LR
-    Fork[Fork the project]-->branch[Create a New Branch]
-    branch-->Edit[Edit file]
-    Edit-->commit[Commit the changes]
-    commit -->|Finally|creatpr((Create a Pull Request))
+graph TD;
+    A[Fork the Repository] --> B[Clone the Forked Repository];
+    B --> C[Create a New Branch];
+    C --> D[Make Changes];
+    D --> E[Commit Changes];
+    E --> F[Push Changes];
+    F --> G[Create a Pull Request];
+    G --> H[Discuss and Review];
+    H --> I{Approved?};
+    I -->|Yes| J[Merge Pull Request];
+    I -->|No| H;
+    J --> K[Sync Forked Repository];
 ```
 
 **1. Fork the project:**
