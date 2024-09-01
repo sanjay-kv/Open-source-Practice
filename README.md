@@ -1,4 +1,4 @@
-# Open-source-Practice
+# Open-source-Practice demo
 GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
 
 ## open-source-practice Pull Requests
