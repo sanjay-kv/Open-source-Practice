@@ -254,11 +254,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **N**
-  - [Niranjan Gaikwad](https://github.com/niranjansgitbuh)
+  - [Niranjan Gaikwad]()
 | [`Back To Top`](#contents) |
 
 - ### **O**
-  - 
+  - [Om Aware](https://github.com/omaware-gg)
 | [`Back To Top`](#contents) |
 
  - ### **P**
