@@ -2,6 +2,7 @@
 
 
 ## open-source-practice Pull Requests
+## Follow these steps carefully to ensure a smooth contribution process!
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
