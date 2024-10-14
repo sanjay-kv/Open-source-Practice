@@ -211,6 +211,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **E**
   - [EmadCoder](https://github.com/emadcode)
+  - [EmadCoder](https://github.com/emadcode)
 
 | [`Back To Top`](#contents) |
 
