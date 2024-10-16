@@ -328,8 +328,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
  - ### **S**
     - [Shivathmika ](https://github.com/shivathmikavemula)
+
+    - [Shashmitha](https://github.com/shashmitha46)
+    - [Shamayita Datta](https://github.com/shamayitadatta)
+
     - [Shamayita Datta](https://github.com/shamayitadatta
     - [Sridevi ](https://github.com/Sridevi0321)
+
     - [Sanjay](https://github.com/sanjay-kv)
     - [Seersha](https://github.com/Seersha9802)
     - [Sivani](https://github.com/ImmidiSivani)
