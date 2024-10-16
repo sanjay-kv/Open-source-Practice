@@ -288,7 +288,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - | [`Back To Top`](#contents) |
   - | [Rakshit](https://github.com/Rakshit-gen) |
   - [Rhea](https://github.com/rees8)
+
+  - [theritwik](https://github.com/theritwik)
+  
+
   - [Riya Arora](https://github.com/riyaarora954)
+
 
 | [`Back To Top`](#contents) |
 [Riya ](https://github.com/Riya-221)
