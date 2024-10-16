@@ -332,10 +332,14 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - | [Rakshit](https://github.com/Rakshit-gen) |
   - [Rhea](https://github.com/rees8)
 
+  - [Rana Jay](https://github.com/RanaJay3101)
+
+
   - [Ritik Singh](https://github.com/ritiksingh-01)
 
 
   - [theritwik](https://github.com/theritwik)
+
 
   
 
