@@ -1,6 +1,5 @@
 # Open-source-Practice
 
-
 ## open-source-practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
@@ -20,7 +19,7 @@ flowchart LR
 **1. Fork the project:**
 
 - Click the gray <kbd>Fork</kbd> button at the top right of the previous page. This creates your copy of the project and saves it as a new repository in your GitHub account.
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/a50b0ed1-84b6-4254-bd7c-d8dbb2839466)
+  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/a50b0ed1-84b6-4254-bd7c-d8dbb2839466)
 
 **2. Create a New Branch:**
 
@@ -47,23 +46,21 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 **1. Fork the project:**
 
 - Click the gray <kbd>Fork</kbd> button at the top right of the previous page. This creates your copy of the project and saves it as a new repository in your GitHub account.
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8244b3df-7904-4f07-9447-7962cb504a34)
+  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8244b3df-7904-4f07-9447-7962cb504a34)
 
 **2. Clone this project on your computer:**
 
 - Go to your profile. You will find forked repo named **_open-source-practice_**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. 
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/9c41e4fe-438b-4747-8789-ff75e092fef9)
-
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
+  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/9c41e4fe-438b-4747-8789-ff75e092fef9)
 
 ```bash
   git clone https://github.com/GSSoC24/being-an-GSSoc24.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window. ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/590d6314-70b9-478d-939f-3c0e1dcf4ab4)
-
 
 ```bash
   cd being-an-GSSoc24
@@ -72,14 +69,13 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 **3. Open in code Editor:**
 
 - Open the `README.md` file
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/dd43df00-e1f2-42fa-8714-4a5731a1027f)
+  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/dd43df00-e1f2-42fa-8714-4a5731a1027f)
 
-  
 **4. Create a new branch:**
 ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/55059bd9-05f0-4f36-9205-9eb926831a19)
 
 - Your username would make a good branch because it's unique.  
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8eee07c1-120b-4022-8677-932b4dbe89d5)
+  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8eee07c1-120b-4022-8677-932b4dbe89d5)
 
 ```bash
   git checkout -b <name-of-new-branch>
@@ -119,7 +115,7 @@ or
 ```
 
 - The response should be like this:
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/443ed4e6-6105-44e5-9ca2-d87d70a83986)
+  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/443ed4e6-6105-44e5-9ca2-d87d70a83986)
 
 ```bash
 On branch <name-of-your-branch>
@@ -153,7 +149,7 @@ Please make sure you have the correct access rights and that the repository exis
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! ![createpr]
 
-- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the GSSoC'24 Being an Gssoc repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. 
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the GSSoC'24 Being an Gssoc repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button.
   Note: A pull request allows us to merge your changes with the original project repo.
 
 - Your pull request will be reviewed and then eventually merged.
@@ -170,32 +166,36 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
 
-
-
 ## `GSSoC24-Community`
 
 ### **Contents**
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) | 
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) |
 
 - ### **A**
   - [Aabhirup Paul](https://github.com/paul-abhirup)
   - [Aakruti Kalia](https://github.com/akku-07)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
- -  [Anushree mehta](https://github.com/anushreemehta6)
-  - [Aryan Karamtoth](https://github.com/spaciouscoder78)
-  - [Amrutha](https://github.com/AmruthaPariprolu)
-  - [Anushka Joshi](https://github.com/ajoshi30)
-  - [Abhishek Agarwal](https://github.com/AbhiBab)
-  - [Aditi Kapil](https://github.com/Aditi31kapil)
-  - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
-| [`Back To Top`](#contents) |
+- [Anushree mehta](https://github.com/anushreemehta6)
+- [Aryan Karamtoth](https://github.com/spaciouscoder78)
+- [Amrutha](https://github.com/AmruthaPariprolu)
+- [Anushka Joshi](https://github.com/ajoshi30)
+- [Abhishek Agarwal](https://github.com/AbhiBab)
+- [Aditi Kapil](https://github.com/Aditi31kapil)
+- [Aksh Maheshwari](https://github.com/AkshMaheshwari)
+- [Aryan Arora](https://github.com/AryanArora)
+  | [`Back To Top`](#contents) |
 
 - ### **B**
+
   - [Bharat Singh Parihar](https://github.com/bharat3645)
+
+    | [`Back To Top`](#contents) |
+
 | [`Back To Top`](#contents) |
 --[https://github.com/AliGoodarzi-Ai]
+
 
 - ### **C**
 
@@ -205,7 +205,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **D**
-  
+
   - [Dipesh Mittal](https://github.com/zeeno2616)
   - [Debasis Sikdar](https://github.com/DebasisX)
   - [Dishi Malviya](https://github.com/dishi890)
@@ -216,123 +216,127 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **F**
+
   - [ Fenil Patel ] (https://github.com/fenil-ptl)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **G**
+
   - [Gssoc](https://github.com/GSS0C24)
   - [Goldy Patel] (https://github.com/Goldypatel)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **H**
-  - 
- - [Hritika Sharan](https://github.com/hritika2409)
-
+  -
+- [Hritika Sharan](https://github.com/hritika2409)
 
 - ### **I**
+
   - [Itisha](https://github.com/itishacodes)
   - [Demo](https://github.com/demo)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **J**
+
   - [Jisha-TR](https://github.com/Jisha-tr)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **K**
-  - 
-| [`Back To Top`](#contents) |
+
+  - | [`Back To Top`](#contents) |
 
 - ### **L**
+
   - [Lovely Mahour](https://github.com/lovelymahor)
   - [Likhil N Maiya](https://github.com/lickhill)
   - [Lavany Sai Bollamreddi](https://github.com/lavanyasai-b)
   - [Laxmi Kandivalasa](https://github.com/laxmi47)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **M**
+
   - Me
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
   - Mihir Phalke (https://github.com/mihirphalke1)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **N**
+
   - [Niranjan Gaikwad](https://github.com/niranjansgitbuh)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **O**
-  - 
-| [`Back To Top`](#contents) |
 
- - ### **P**
-     - [Piyush Bagde](https://github.com/PiyushBagde)
-    - [Prince Gupta](https://github.com/Princegupta101)
-    - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
-    - [Pavan Gowda T S](https://github.com/pavants777)
-    - [Prashant Anand](https://github.com/PrashantAnand03)
-    - [Priyal_Adesara](https://github.com/priyaladesara)
-    - [Puneet Tiwari](https://github.com/puneet426)
- 
+  - | [`Back To Top`](#contents) |
+
+- ### **P**
+  - [Piyush Bagde](https://github.com/PiyushBagde)
+  - [Prince Gupta](https://github.com/Princegupta101)
+  - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
+  - [Pavan Gowda T S](https://github.com/pavants777)
+  - [Prashant Anand](https://github.com/PrashantAnand03)
+  - [Priyal_Adesara](https://github.com/priyaladesara)
+  - [Puneet Tiwari](https://github.com/puneet426)
+
 | [`Back To Top`](#contents) |
 
 - ### **Q**
-  - 
-| [`Back To Top`](#contents) |
+
+  - | [`Back To Top`](#contents) |
 
 - ### **R**
   - | [`Back To Top`](#contents) |
   - | [Rakshit](https://github.com/Rakshit-gen) |
   - [Rhea](https://github.com/rees8)
-  
+  - [Riya Arora](https://github.com/riyaarora954)
+
 | [`Back To Top`](#contents) |
 [Riya ](https://github.com/Riya-221)
 
- - ### **S**
-    - [Shivathmika ](https://github.com/shivathmikavemula)
-    - [Shamayita Datta](https://github.com/shamayitadatta)
-    - [Sanjay](https://github.com/sanjay-kv)
-    - [Seersha](https://github.com/Seersha9802)
-    - [Sivani](https://github.com/ImmidiSivani)
-    - [Shreya Paul](https://github.com/shreya-paul-17)
-    - [Sadath Hussain](https://github.com/sadath2001)
-    - [Sadath Hussain.2](https://github.com/sadath2001)
+- ### **S**
+  - [Shivathmika ](https://github.com/shivathmikavemula)
+  - [Shamayita Datta](https://github.com/shamayitadatta)
+  - [Sanjay](https://github.com/sanjay-kv)
+  - [Seersha](https://github.com/Seersha9802)
+  - [Sivani](https://github.com/ImmidiSivani)
+  - [Shreya Paul](https://github.com/shreya-paul-17)
+  - [Sadath Hussain](https://github.com/sadath2001)
+  - [Sadath Hussain.2](https://github.com/sadath2001)
 
-
-   
 | [`Back To Top`](#contents) |
 
 - ### **T**
+
   - [T.Manas](https://github.com/tmanas06)
   - [Teejay](https://github.com/teejay)
   - [Tanmay Deopurkar](https://github.com/tanmays62343)
   - [TR](https://github.com/TR)
   - [TR.1](https://github.com/TR)
-| [`Back To Top`](#contents) |
+    | [`Back To Top`](#contents) |
 
 - ### **U**
-  - 
-| [`Back To Top`](#contents) |
+
+  - | [`Back To Top`](#contents) |
 
 - ### **V**
 
   - [Vishal Manve](https://github.com/vishalmanve)
 
 - ### **W**
-  - 
-| [`Back To Top`](#contents) |
+
+  - | [`Back To Top`](#contents) |
 
 - ### **X**
-  - 
-| [`Back To Top`](#contents) |
+
+  - | [`Back To Top`](#contents) |
 
 - ### **Y**
-  - 
-| [`Back To Top`](#contents) |
+
+  - | [`Back To Top`](#contents) |
 
 - ### **Z**
-  - 
-|- [Zeba](https://github.com/zeba62) |
+  - |- [Zeba](https://github.com/zeba62) |
+
 ## Our Pledge
 
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
-
-
