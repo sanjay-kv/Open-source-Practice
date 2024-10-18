@@ -235,6 +235,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   | [`Back To Top`](#contents) |
 
 - ### **E**
+  - [Ellen Rose James](https://github.com/ellen-rose-james)
   - [Eunice Adewusi](https://github.com/eadewusic)
 
 | [`Back To Top`](#contents) |
