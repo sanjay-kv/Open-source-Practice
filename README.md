@@ -174,10 +174,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) |
 
 - ### **A**
-  - [Aabhirup Paul](https://github.com/paul-abhirup)
-  - [Aakruti Kalia](https://github.com/akku-07)
-  - [Anshika Saini](https://github.com/Anshikaa-Saini)
-
+- [Aabhirup Paul](https://github.com/paul-abhirup)
+- [Aakruti Kalia](https://github.com/akku-07)
+- [Anshika Saini](https://github.com/Anshikaa-Saini)
 - [Anushree mehta](https://github.com/anushreemehta6)
 - [Aryan Karamtoth](https://github.com/spaciouscoder78)
 - [Amrutha](https://github.com/AmruthaPariprolu)
@@ -185,9 +184,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Abhishek Agarwal](https://github.com/AbhiBab)
 - [Aditi Kapil](https://github.com/Aditi31kapil)
 - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
-  | [`Back To Top`](#contents) |
-
-
  -  [Anushree mehta](https://github.com/anushreemehta6)
  -  [Aninda Mondal](https://github.com/aniii09)
   - [Aryan Karamtoth](https://github.com/spaciouscoder78)
@@ -197,9 +193,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aditi Kapil](https://github.com/Aditi31kapil)
   - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
   - [Abhinendra Singh](https://github.com/singhabhinendra)
-| [`Back To Top`](#contents) |
-
-
 - [Anushree mehta](https://github.com/anushreemehta6)
 - [Aryan Karamtoth](https://github.com/spaciouscoder78)
 - [Amrutha](https://github.com/AmruthaPariprolu)
@@ -209,20 +202,17 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
 - [Aryan Arora](https://github.com/AryanArora)
 - [Ayan](https://github.com/Lighting-pixel)
+
+  
   | [`Back To Top`](#contents) |
 
 
 - ### **B**
 
-  - [Bharat Singh Parihar](https://github.com/bharat3645)
-
-    | [`Back To Top`](#contents) |
-
-
-    | [`Back To Top`](#contents) |
+- [Bharat Singh Parihar](https://github.com/bharat3645)
+- [AliGoodarzi-Ai](https://github.com/AliGoodarzi-Ai)
 
 | [`Back To Top`](#contents) |
---[https://github.com/AliGoodarzi-Ai]
 
 
 
@@ -236,13 +226,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **D**
   -[Dharani Neelapuram](https://github.com/Bhoomidhanu12)
-
-
-
   - [Dipesh Mittal](https://github.com/zeeno2616)
   - [Debasis Sikdar](https://github.com/DebasisX)
   - [Dishi Malviya](https://github.com/dishi890)
+  - [Devansh Ojha](https://github.com/Ojha8421)
   - [DorafinaTech](https://github.com/DorafinaTech)
+  
+  | [`Back To Top`](#contents) |
 
 - ### **E**
   - [Eunice Adewusi](https://github.com/eadewusic)
@@ -252,44 +242,41 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **F**
 
   - [ Fenil Patel ] (https://github.com/fenil-ptl)
-    | [`Back To Top`](#contents) |
+  
+  | [`Back To Top`](#contents) |
 
 - ### **G**
 
   - [Gssoc](https://github.com/GSS0C24)
-  - [Goldy Patel] (https://github.com/Goldypatel)
-    | [`Back To Top`](#contents) |
+  - [Goldy Patel](https://github.com/Goldypatel)
+  
+  | [`Back To Top`](#contents) |
 
 - ### **H**
-  -
+
 - [Hritika Sharan](https://github.com/hritika2409)
+
+  | [`Back To Top`](#contents) |
 
 - ### **I**
 
 
   - [Ishita Gupta](https://github.com/ishicodz)
-
-
   - [Itisha](https://github.com/itishacodes)
   - [Demo](https://github.com/demo)
+
     | [`Back To Top`](#contents) |
 
 - ### **J**
 
   - [Jisha-TR](https://github.com/Jisha-tr)
+
     | [`Back To Top`](#contents) |
 
 - ### **K**
-
-  - | [`Back To Top`](#contents) |
-
   - [khushi1315](https://github.com/khushi1315)
+
 | [`Back To Top`](#contents) |
-
-
-
-  - | [`Back To Top`](#contents) |
-
 
 - ### **L**
 
@@ -297,49 +284,26 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Likhil N Maiya](https://github.com/lickhill)
   - [Lavany Sai Bollamreddi](https://github.com/lavanyasai-b)
   - [Laxmi Kandivalasa](https://github.com/laxmi47)
-    | [`Back To Top`](#contents) |
+
+  | [`Back To Top`](#contents) |
 
 - ### **M**
-
-
   - [Mahima](https://github.com/mahimakathpal)
-
-
-
-  - Me
-
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
-  - Mihir Phalke (https://github.com/mihirphalke1)
-
-    | [`Back To Top`](#contents) |
-
-
-  - Devansh Ojha (https://github.com/Ojha8421)
+  - [Mihir Phalke](https://github.com/mihirphalke1)
+  
 | [`Back To Top`](#contents) |
-
-
-    | [`Back To Top`](#contents) |
-
 
 - ### **N**
 
   - [Niranjan Gaikwad](https://github.com/niranjansgitbuh)
-
-    | [`Back To Top`](#contents) |
-
-
   - [Neeraj Sharma](https://github.com/neerajsharma897/)
-| [`Back To Top`](#contents) |
-
 
     | [`Back To Top`](#contents) |
 
 
 - ### **O**
-
-
-
-
+| [`Back To Top`](#contents) |
 
  - ### **P**
      - [Piyush Bagde](https://github.com/PiyushBagde)
@@ -349,13 +313,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Prashant Anand](https://github.com/PrashantAnand03)
     - [Priyal_Adesara](https://github.com/priyaladesara)
     - [Puneet Tiwari](https://github.com/puneet426)
-
     - [Priyanshi Agrawal](https://github.com/PriyanshiAgr)
- 
     - [Priyanshi Bhargava](https://github.com/Priyanshi0112)
-
-
-  - | [`Back To Top`](#contents) |
+   
+   | [`Back To Top`](#contents) |
 
 - ### **P**
   - [Piyush Bagde](https://github.com/PiyushBagde)
@@ -365,98 +326,46 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Prashant Anand](https://github.com/PrashantAnand03)
   - [Priyal_Adesara](https://github.com/priyaladesara)
   - [Puneet Tiwari](https://github.com/puneet426)
-
   - [Parimi Vedavalli](https://github.com/Veda273)
-
 
 | [`Back To Top`](#contents) |
 
 - ### **Q**
 
-  - | [`Back To Top`](#contents) |
+ | [`Back To Top`](#contents) |
 
 - ### **R**
-  - | [`Back To Top`](#contents) |
-  - | [Rakshit](https://github.com/Rakshit-gen) |
+  - [Rakshit](https://github.com/Rakshit-gen) 
   - [Rhea](https://github.com/rees8)
-
   - [Rudransh Pratap Singh](https://github.com/CoderFleet)
   - [Riya ](https://github.com/Riya-221)
-
-
-
-| [`Back To Top`](#contents) |
-[Riya ](https://github.com/Riya-221)
-
-- ### **S**
-  - [Shivathmika ](https://github.com/shivathmikavemula)
-  - [Shamayita Datta](https://github.com/shamayitadatta)
-  - [Sanjay](https://github.com/sanjay-kv)
-  - [Seersha](https://github.com/Seersha9802)
-  - [Sivani](https://github.com/ImmidiSivani)
-  - [Shreya Paul](https://github.com/shreya-paul-17)
-  - [Sadath Hussain](https://github.com/sadath2001)
-  - [Sadath Hussain.2](https://github.com/sadath2001)
-
-
   - [Rana Jay](https://github.com/RanaJay3101)
-
-
   - [Ritik Singh](https://github.com/ritiksingh-01)
-
-
-  - [theritwik](https://github.com/theritwik)
-
-
-
-  
-
-  - [Riya Arora](https://github.com/riyaarora954)
-
+ - [Riya Arora](https://github.com/riyaarora954)
 
 | [`Back To Top`](#contents) |
 
- - ### **S**
-    - [Shivathmika ](https://github.com/shivathmikavemula)
-
-    - [Shashmitha](https://github.com/shashmitha46)
-    - [Shamayita Datta](https://github.com/shamayitadatta)
-
-    - [Shamayita Datta](https://github.com/shamayitadatta
-    - [Shariq](https://github.com/Shariq2003)
-    - [Sridevi ](https://github.com/Sridevi0321)
-
-    - [Sanjay](https://github.com/sanjay-kv)
-    - [Seersha](https://github.com/Seersha9802)
-    - [Sivani](https://github.com/ImmidiSivani)
-    - [Shreya Paul](https://github.com/shreya-paul-17)
-    - [Sadath Hussain](https://github.com/sadath2001)
-
-    - [Sadath Hussain.2](https://github.com/sadath2001)
-
-     - [Sanjana](https://github.com/sanjanaapandey)
-
-    - [Simran kukreja](https://github.com/Simran-0024/demo-try)
-
-    - [Sadath Hussain.2](https://github.com/sadath2001
-    
 
 
 - ### **S**
   - [Shivathmika ](https://github.com/shivathmikavemula)
-  - [Shamayita Datta](https://github.com/shamayitadatta)
   - [Sanjay](https://github.com/sanjay-kv)
   - [Seersha](https://github.com/Seersha9802)
   - [Sivani](https://github.com/ImmidiSivani)
   - [Shreya Paul](https://github.com/shreya-paul-17)
+  - [Seersha](https://github.com/Seersha9802)
   - [Sadath Hussain](https://github.com/sadath2001)
-  - [Sadath Hussain.2](https://github.com/sadath2001)
-
-
-
-
+  - [Shashmitha](https://github.com/shashmitha46)
+  - [Shamayita Datta](https://github.com/shamayitadatta)
+  - [Shariq](https://github.com/Shariq2003)
+  - [Sridevi ](https://github.com/Sridevi0321)
+  - [Seersha](https://github.com/Seersha9802)
+  - [Sanjana](https://github.com/sanjanaapandey)
+  - [Simran kukreja](https://github.com/Simran-0024/demo-try)
 
 | [`Back To Top`](#contents) |
+
+
 
 - ### **T**
   - [T Rahul Prabhu](https://github.com/T-Rahul-prabhu-38)
@@ -465,31 +374,40 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tanmay Deopurkar](https://github.com/tanmays62343)
   - [TR](https://github.com/TR)
   - [TR.1](https://github.com/TR)
-    | [`Back To Top`](#contents) |
+ - [theritwik](https://github.com/theritwik)
+
+  | [`Back To Top`](#contents) |
 
 - ### **U**
 
-  - | [`Back To Top`](#contents) |
+
+| [`Back To Top`](#contents) |
 
 - ### **V**
 
   - [Vishal Manve](https://github.com/vishalmanve)
   - [Varsha Pandian](https://github.com/varshapandiann)
 
+| [`Back To Top`](#contents) |
+
 - ### **W**
 
-  - | [`Back To Top`](#contents) |
+
+ | [`Back To Top`](#contents) |
 
 - ### **X**
 
-  - | [`Back To Top`](#contents) |
+ 
+ | [`Back To Top`](#contents) |
 
 - ### **Y**
 
-  - | [`Back To Top`](#contents) |
+ | [`Back To Top`](#contents) |
 
 - ### **Z**
   - |- [Zeba](https://github.com/zeba62) |
+  
+  | [`Back To Top`](#contents) |
 
 ## Our Pledge
 
