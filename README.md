@@ -202,6 +202,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
 - [Aryan Arora](https://github.com/AryanArora)
 - [Ayan](https://github.com/Lighting-pixel)
+- [Archita Aparajita Rath](https://github.com/archita-a1903)
 
   
   | [`Back To Top`](#contents) |
