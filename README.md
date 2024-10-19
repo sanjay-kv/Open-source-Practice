@@ -303,10 +303,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **O**
+  
 | [`Back To Top`](#contents) |
 
  - ### **P**
-     - [Piyush Bagde](https://github.com/PiyushBagde)
+    - [Piyush Bagde](https://github.com/PiyushBagde)
     - [Prince Gupta](https://github.com/Princegupta101)
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
     - [Pavan Gowda T S](https://github.com/pavants777)
@@ -315,20 +316,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Puneet Tiwari](https://github.com/puneet426)
     - [Priyanshi Agrawal](https://github.com/PriyanshiAgr)
     - [Priyanshi Bhargava](https://github.com/Priyanshi0112)
+    - [Parimi Vedavalli](https://github.com/Veda273)
+    - [Pushpa Vishwakarma](https://github.com/Pushpa472)
    
    | [`Back To Top`](#contents) |
-
-- ### **P**
-  - [Piyush Bagde](https://github.com/PiyushBagde)
-  - [Prince Gupta](https://github.com/Princegupta101)
-  - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
-  - [Pavan Gowda T S](https://github.com/pavants777)
-  - [Prashant Anand](https://github.com/PrashantAnand03)
-  - [Priyal_Adesara](https://github.com/priyaladesara)
-  - [Puneet Tiwari](https://github.com/puneet426)
-  - [Parimi Vedavalli](https://github.com/Veda273)
-
-| [`Back To Top`](#contents) |
 
 - ### **Q**
 
