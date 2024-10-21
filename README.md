@@ -174,12 +174,19 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) |
 
 - ### **A**
+
+  - [Aabhirup Paul](https://github.com/paul-abhirup)
+  - [Aakruti Kalia](https://github.com/akku-07)
+  - [Anjali Vanguri](https://github.com/a-n-u-vanguri)
+  - [Anshika Saini](https://github.com/Anshikaa-Saini)
+
 - [Aabhirup Paul](https://github.com/paul-abhirup)
 - [Aakruti Kalia](https://github.com/akku-07)
 - [Abankita Behera](https://github.com/Abankita)
 - [Ankan Mukhopadhyay](https://github.com/Peart-Guy)
 - [Anshika Saini](https://github.com/Anshikaa-Saini)
 - [Anushka Kar](https://github.com/Anushka-kar)
+
 - [Anushree mehta](https://github.com/anushreemehta6)
 - [Aryan Karamtoth](https://github.com/spaciouscoder78)
 - [Amrutha](https://github.com/AmruthaPariprolu)
