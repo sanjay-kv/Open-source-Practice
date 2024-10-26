@@ -310,7 +310,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **J**
 
   - [Jisha-TR](https://github.com/Jisha-tr)
-  -[Janeesh](https://github.com/janeeshgithub)
+  -[Janeesh](https://github.com/janeeshgithub)                               
+    -[Jit Som](https://github.com/coderstrikes)
 
     | [`Back To Top`](#contents) |
 
