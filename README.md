@@ -332,6 +332,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mahima](https://github.com/mahimakathpal)
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
   - [Mihir Phalke](https://github.com/mihirphalke1)
+  - [Muhammad Shoaib Khan](https://github.com/msk21shoaib)
   
 | [`Back To Top`](#contents) |
 
