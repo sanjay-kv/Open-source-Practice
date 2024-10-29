@@ -377,6 +377,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ritik Singh](https://github.com/ritiksingh-01)
   -[Ritik Sinha](https://github.com/RitikSinha04)
  - [Riya Arora](https://github.com/riyaarora954)
+  -  [Rohit Mukherjee](https://github.com/rickyrick23)
 
 | [`Back To Top`](#contents) |
 
