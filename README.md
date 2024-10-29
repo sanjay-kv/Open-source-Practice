@@ -316,10 +316,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **K**
+
+  [kuldeep sharma][(https://github.com/technicalkuldeep)]
   - [khushi1315](https://github.com/khushi1315)
   - [Kruthi S B](https://github.com/kruthi-sb)
   - [Kartik Mehta](https://github.com/kartikmehta18)
   - [Kashish Arora](https://github.com/kash-1007)
+
 | [`Back To Top`](#contents) |
 
 - ### **L**
