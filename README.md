@@ -530,7 +530,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **Y**
 
+  -  [Yashika Sharma](https://github.com/yashika1900)
+
  | [`Back To Top`](#contents) |
+
 
 - ### **Z**
 
