@@ -383,43 +383,28 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
  - ### **S**
-    - [Sneha Giri](https://github.com/Snehagiri554)
-    - [Shivathmika ](https://github.com/shivathmikavemula)
-    - [Shamayita Datta](https://github.com/shamayitadatta)
-    - [Sanjay](https://github.com/sanjay-kv)
-    - [Seersha](https://github.com/Seersha9802)
-    - [Sivani](https://github.com/ImmidiSivani)
-    - [Shreya Paul](https://github.com/shreya-paul-17)
-    - [Sadath Hussain](https://github.com/sadath2001)
-    - [Sadath Hussain.2](https://github.com/sadath2001)
-    - [Sibangi Boxipatro](https://github.com/Sibangi-2911)
-    - [Shuvojit Samanta](https://github.com/shuvojitss)
-
-
 - ### **S**
-  - [Shivathmika ](https://github.com/shivathmikavemula)
-  - [Sanjay](https://github.com/sanjay-kv)
-  - [Seersha](https://github.com/Seersha9802)
-  - [Sivani](https://github.com/ImmidiSivani)
-  - [Shreya Paul](https://github.com/shreya-paul-17)
-  - [Seersha](https://github.com/Seersha9802)
   - [Sadath Hussain](https://github.com/sadath2001)
-  - [Shashmitha](https://github.com/shashmitha46)
-  - [Shamayita Datta](https://github.com/shamayitadatta)
-  - [Shariq](https://github.com/Shariq2003)
-  - [Sridevi ](https://github.com/Sridevi0321)
-  - [Seersha](https://github.com/Seersha9802)
+  - [Samridha Das](https://github.com/Samridha0305)
+  - [Sanjay](https://github.com/sanjay-kv)
   - [Sanjana](https://github.com/sanjanaapandey)
+  - [Seersha](https://github.com/Seersha9802)
+  - [Shamayita Datta](https://github.com/shamayitadatta)
   - [Shaik Hafiza](https://github.com/ShaikHafiza)
+  - [Shariq](https://github.com/Shariq2003)
+  - [Shashmitha](https://github.com/shashmitha46)
+  - [Shivathmika](https://github.com/shivathmikavemula)
+  - [Shreya Paul](https://github.com/shreya-paul-17)
   - [Shuvojit Samanta](https://github.com/shuvojitss)
-  - [Simran kukreja](https://github.com/Simran-0024/demo-try)
-  - [Sumalatha Salapu](https://github.com/SumaLatha2023)
-  -[Sumantrini Sarkar](https://github.com/Sumantrini48)
-
+  - [Sibangi Boxipatro](https://github.com/Sibangi-2911)
+  - [Simran Kukreja](https://github.com/Simran-0024/demo-try)
+  - [Sivani](https://github.com/ImmidiSivani)
   - [Sk Sofiquee Fiaz](https://github.com/RandomSummer)
-
-  -[Samridha Das](https://github.com/Samridha0305)
-
+  - [Sneha Giri](https://github.com/Snehagiri554)
+  - [Sridevi](https://github.com/Sridevi0321)
+  - [Sumalatha Salapu](https://github.com/SumaLatha2023)
+  - [Sumantrini Sarkar](https://github.com/Sumantrini48)
+  - [Suryansh Chourasia](https://github.com/Suryansh777777)
 
 | [`Back To Top`](#contents) |
 
