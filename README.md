@@ -500,7 +500,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
  | [`Back To Top`](#contents) |
 
 - ### **R**
-
+  - [Rishita Rani](https://github.com/TechSenseiX)
   - [Rahuf khan](https://github.com/Rahufkhan)
   - [Ritika Sahu](https://github.com/Ritika-sahu)
   - [Riddhima Sharma](https://github.com/Riddhima-sh)
