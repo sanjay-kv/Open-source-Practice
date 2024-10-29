@@ -376,6 +376,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
     - [Prince Gupta](https://github.com/Princegupta101)
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
+
+    - [Preethi Kamal](https://github.com/preethikamal)
+ 
+
     - [Pearl Vashistha](https://github.com/pearll12)
     - [Pavan Gowda T S](https://github.com/pavants777)
     - [Prashant Anand](https://github.com/PrashantAnand03)
@@ -388,6 +392,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Pushpa Vishwakarma](https://github.com/Pushpa472)
    
    | [`Back To Top`](#contents) |
+
 
 
 - ### **Q**
