@@ -382,12 +382,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 
- - ### **S**
 - ### **S**
   - [Sadath Hussain](https://github.com/sadath2001)
   - [Samridha Das](https://github.com/Samridha0305)
-  - [Sanjay](https://github.com/sanjay-kv)
+  - [Sanjay KV](https://github.com/sanjay-kv)
   - [Sanjana](https://github.com/sanjanaapandey)
+  - [Sanika Deokule](https://github.com/sanikadeokule)
   - [Seersha](https://github.com/Seersha9802)
   - [Shamayita Datta](https://github.com/shamayitadatta)
   - [Shaik Hafiza](https://github.com/ShaikHafiza)
