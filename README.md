@@ -230,6 +230,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **B**
 
+- [Bhumika Bhatt](https://github.com/Bhumika1312)
 - [Bharat Singh Parihar](https://github.com/bharat3645)
 -[Bodisatwa Dutta](https://github.com/BDutta18)
 
