@@ -379,19 +379,20 @@ A GitHub conflict is when people make changes to the same area or line in a file
  | [`Back To Top`](#contents) |
 
 - ### **R**
-
-  - [Roushan Verma](https://github.com/roushanverma23)
-  - [Rakshit](https://github.com/Rakshit-gen) 
-  - [Rhea](https://github.com/rees8)
-  - [Rudransh Pratap Singh](https://github.com/CoderFleet)
-  - [Riya ](https://github.com/Riya-221)
-  - [Rana Jay](https://github.com/RanaJay3101)
-  - [Ritik Singh](https://github.com/ritiksingh-01)
-  -[Ritik Sinha](https://github.com/RitikSinha04)
- - [Riya Arora](https://github.com/riyaarora954)
-  -  [Rohit Mukherjee](https://github.com/rickyrick23)
+- [Rahul Sahu](https://github.com/rahuls49)
+- [Roushan Verma](https://github.com/roushanverma23)
+- [Rakshit](https://github.com/Rakshit-gen)
+- [Rhea](https://github.com/rees8)
+- [Rudransh Pratap Singh](https://github.com/CoderFleet)
+- [Riya](https://github.com/Riya-221)
+- [Rana Jay](https://github.com/RanaJay3101)
+- [Ritik Singh](https://github.com/ritiksingh-01)
+- [Ritik Sinha](https://github.com/RitikSinha04)
+- [Riya Arora](https://github.com/riyaarora954)
+- [Rohit Mukherjee](https://github.com/rickyrick23)
 
 | [`Back To Top`](#contents) |
+
 
 
  - ### **S**
