@@ -329,13 +329,17 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **M**
+
+  - [Mrityunjay Kumar](https://github.com/221fa04732)
+
   - [MuraliDharan](https://github.com/MuraliDharan7)
   - [Mahima](https://github.com/mahimakathpal)
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
   - [Mihir Phalke](https://github.com/mihirphalke1)
   - [MD REHAN] (https://github.com/REHAN-18)
+- [Meenal Saini](https://github.com/meenal900
 | [`Back To Top`](#contents) |
-[Meenal Saini](https://github.com/meenal900
+
 
 - ### **N**
 - [Navuluri Balaji](https://github.com/NavuluriBalaji)
