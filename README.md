@@ -426,6 +426,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **M**
 
+ - [Mitva Gami](https://github.com/MitvaGami)
+
   - [Meet Arora](https://github.com/meetarora10)
 
   - [Mohit Gupta](https://github.com/mtg718)
@@ -443,6 +445,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Meenal Saini](https://github.com/meenal900)
 
 | [`Back To Top`](#contents) |
+
 
 
 - ### **N**
