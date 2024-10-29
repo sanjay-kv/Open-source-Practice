@@ -503,16 +503,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **R**
 
+  - [Rahuf khan](https://github.com/Rahufkhan)
   - [Ritika Sahu](https://github.com/Ritika-sahu)
-    
-
-
   - [Riddhima Sharma](https://github.com/Riddhima-sh)
-
   - [Richa Dasila](https://github.com/richa-dasila)
-
   - [Riddhi](https://github.com/RiddhiMenroy)
-
   - [Rahul kumar](https://github.com/mrrahulkrr)
 - [Rahul Sahu](https://github.com/rahuls49)
 - [Roushan Verma](https://github.com/roushanverma23)
@@ -525,9 +520,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Ritik Sinha](https://github.com/RitikSinha04)
 - [Riya Arora](https://github.com/riyaarora954)
 - [Rohit Mukherjee](https://github.com/rickyrick23)
-
-
-
 | [`Back To Top`](#contents) |
 
 
