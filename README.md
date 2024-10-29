@@ -176,62 +176,31 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **A**
 
+  - Abdul{https://github.com/abd0777}
   - [Anushree Nair](https://github.com/anushreenair)
-
   - [Aditi Tapariya](https://github.com/adititapariya)
   - [Aabhirup Paul](https://github.com/paul-abhirup)
-
   - [Aarya Balwadkar](https://github.com/AaryaBalwadkar)
- 
-
- -  | [Agrima Singh](https://github.com/Agrima11) |
-
-  -  [Aditya Jasoriya](https://github.com/Aditya01229)
-
-
- -  [Amit Dhiman](https://github.com/amitdhiman5086)
-
+  - [Agrima Singh](https://github.com/Agrima11)
+  - [Aditya Jasoriya](https://github.com/Aditya01229)
+  - [Amit Dhiman](https://github.com/amitdhiman5086)
   - [Ayush_Pant](https://github.com/ayushpant007)
-
- -   [Ankita Waghode ](https://github.com/AnkitaWaghode25)
-
-
-
- -  [Anshika Gupta](https://github.com/anshika-gupta21)
-
+  - [Ankita Waghode ](https://github.com/AnkitaWaghode25)
+  - [Anshika Gupta](https://github.com/anshika-gupta21)
   - [Akhil Jain](https://github.com/AkhilJain5)
-
-
   - [Anushka Jain](https://github.com/AnushkaJainFirst)
-
-
   - [Amrita_sinha](https://github.com/asinha828)
   - [Aryan ](https://github.com/aryan)
-- [Arya Davare](https://github.com/aryadavare19)
-
-
+  - [Arya Davare](https://github.com/aryadavare19)
   - [Aabhirup Paul](https://github.com/paul-abhirup)
-
-
  -  [Apurva Dharam](https://github.com/ApurvaDharam)
- 
  -  [Ambika](https://github.com/Ambika03p)
-
   - [Arnab Mitra](https://github.com/arnab-mitra)
-
   -  [Aditya Singh](https://github.com/ascoder1109)
-
   - [Arjav Sankadasariya](https://github.com/arjav-sankadasariya)
-
-
   - [Amaan Sayyed](https://github.com/Viole07)
- 
-
    - [Avineshwar](https://github.com/GAVINESHWAR)
-
-
   - [Avishkar Dhanorkar](https://github.com/avidhanorkar)
- 
   - [Aakruti Kalia](https://github.com/akku-07)
   - [Anjali Vanguri](https://github.com/a-n-u-vanguri)
   - [Ananya Ravikiran Vastare](https://github.com/Ananya-vastare)
