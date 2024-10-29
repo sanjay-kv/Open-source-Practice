@@ -471,7 +471,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
   | [`Back To Top`](#contents) |
 
 - ### **U**
-   - [Utkarsh Gupta](https://github.com/Shadowsweep)
+
+- [uma](https://github.com/Uma-129)
+  - [Utkarsh Gupta](https://github.com/Shadowsweep)
 
 | [`Back To Top`](#contents) |
 
