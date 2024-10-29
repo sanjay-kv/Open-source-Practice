@@ -180,10 +180,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aakruti Kalia](https://github.com/akku-07)
   - [Anjali Vanguri](https://github.com/a-n-u-vanguri)
   - [Ananya Ravikiran Vastare](https://github.com/Ananya-vastare)
-  - [Anshika Saini](https://github.com/Anshikaa-Saini)
-
+  - [Anshika Saini](https://github.com/Anshikaa-Saini) 
+ -  [AYush](https://github.com/ayush-kumarrai)
  -  [Arya Hawaldar](https://github.com/aryah22)
-
 - [Aabhirup Paul](https://github.com/paul-abhirup)
 - [Aakruti Kalia](https://github.com/akku-07)
 - [Abankita Behera](https://github.com/Abankita)
@@ -202,9 +201,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Anushree Mehta](https://github.com/anushreemehta6)
 - [Archisman Tarafdar](https://github.com/ArchismanT)
 - [Aryan Karamtoth](https://github.com/spaciouscoder78)
-
-| [`Back To Top`](#contents) |
-
 - [Abhinendra Singh](https://github.com/singhabhinendra)
 - [Anushree mehta](https://github.com/anushreemehta6)
 - [Aryan Karamtoth](https://github.com/spaciouscoder78)
@@ -218,14 +214,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
 - [Aryan Arora](https://github.com/AryanArora)
 - [Ayan](https://github.com/Lighting-pixel)
-
 - [Archita Aparajita Rath](https://github.com/archita-a1903)
 - [Archit Srivastava](https://github.com/ArchitSr313)
-
 - [Ananya Gupta](https://github.com/ananyag309)
 - [AliGoodarzi-Ai](https://github.com/AliGoodarzi-Ai)
 - [Ayan Mondal](https://github.com/trinetra110)
-  
  - [Ankit Gupta](https://github.com/ankitgupta143) 
 
   
