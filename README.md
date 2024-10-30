@@ -1,5 +1,4 @@
-Yashika Goyal
-https://github.com/yashika-45/
+
 # Open-source-Practice
 
 ## open-source-practice Pull Requests
@@ -441,6 +440,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **M**
 
+- [Mitul Dwivedi](https://github.com/Mitul1927)
   - [Mrigaank Jaswal ](https://github.com/Mrigaank-9)
 -[`Manya`](https://github.com/DownOnCoffee) |
  - [Mohit Solanki](https://github.com/mohit2202solanki)
@@ -737,8 +737,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yashika Garg](https://github.com/yashi-025)
   - [Yatin Sabikhi](https://github.com/Yatin-Sabikhi)
   -  [Yashika Sharma](https://github.com/yashika1900)
-
- | [`Back To Top`](#contents) |
+  -[Yashika Goyal](https://github.com/yashika-45/)
 
 
 
