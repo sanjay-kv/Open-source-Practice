@@ -573,8 +573,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
     - [Prince Gupta](https://github.com/Princegupta101)
 
+    - [prudhvi](https://github.com/Prudhvi-232)
     - [Pranav Bansal](https://github.com/Prannav-Bansal)
-
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
 
     - Pragya Singh(https://github.com/Woookiiee) 
