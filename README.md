@@ -5,7 +5,7 @@ https://github.com/yashika-45/
 ## open-source-practice Pull Requests
 ## Follow these steps carefully to ensure a smooth contribution process!
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+Repository for you to raise a Pull Request to **practice** open-source! 🎉 
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
