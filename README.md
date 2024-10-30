@@ -288,7 +288,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **C**
-
+  - [Chalsi Jain] (https://github.com/Chelsea67jain)
   - [Chalsi Jain](https://github.com/Chelsea67jain)
   - [Chanmeet Kaur](https://github.com/chanmeet01)
   - [Chandan Mahato](https://github.com/Mr-mahato)
