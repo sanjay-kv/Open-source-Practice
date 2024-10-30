@@ -732,6 +732,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **Y**
+
+  - [Yash Tyagi](https://github.com/yash-tyagi-2003)
   - [Yashika Garg](https://github.com/yashi-025)
   - [Yatin Sabikhi](https://github.com/Yatin-Sabikhi)
   -  [Yashika Sharma](https://github.com/yashika1900)
