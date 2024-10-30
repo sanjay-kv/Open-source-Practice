@@ -844,13 +844,14 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **Y**
 
+  -  [YASHIKA KEDIA](https://github.com/yashikakedia) |
+
 -[YASH_SRIVASTAVA](https://github.com/yash21sriv) |
   - [Yash Tyagi](https://github.com/yash-tyagi-2003)
   - [Yashika Garg](https://github.com/yashi-025)
   - [Yatin Sabikhi](https://github.com/Yatin-Sabikhi)
   -  [Yashika Sharma](https://github.com/yashika1900)
   -[Yashika Goyal](https://github.com/yashika-45/)
-
 
 
 - ### **Z**
