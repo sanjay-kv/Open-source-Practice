@@ -264,12 +264,14 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **B**
+
   - [Bhargav](https://github.com/BhargavTammana)
   - [Bhumika Gupta](https://github.com/bhumii-ka)
   -  [Bhanushri Chinta](https://github.com/bhanushri12)
 - [Bhumika Bhatt](https://github.com/Bhumika1312)
 - [Bharat Singh Parihar](https://github.com/bharat3645)
 -[Bodisatwa Dutta](https://github.com/BDutta18)
+
 
 | [`Back To Top`](#contents) |
 
@@ -413,6 +415,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **M**
 
+  - [Mohit Solanki](https://github.com/mohit2202solanki)
+
   -  [Mukul Rajput](https://github.com/MUKUL-RAJPUT2004)
 
   - [Mohit](https://github.com/Mohitgit22)
@@ -483,8 +487,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
 
-
-
     - [Preeti Deora](https://github.com/Preeti-deora)
 
     - [Pranavi Mehta](https://github.com/pranavimehta13)
@@ -512,7 +514,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Pushpa Vishwakarma](https://github.com/Pushpa472)
    
    | [`Back To Top`](#contents) |
-
 
 - ### **Q**
 
@@ -546,10 +547,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
  - ### **S**
-
     - [Sadhvika](https://github.com/Sadhvika55)
     -  [Sanjay](https://github.com/sanjay-kv)
-
     -  [Saumya](https://github.com/SaumyaSinha11)
       -  [Simanta Sarma](https://github.com/SimantaSarma)
     -  [Shadab](https://github.com/shadabalam78698)
@@ -606,9 +605,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **T**
-
-
-
   -  [Tanya Nagpal](https://github.com/Tanya-Nagpal)
   - [Tanish Rai](https://github.com/Tanish2510)
 
@@ -622,6 +618,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
  - [theritwik](https://github.com/theritwik)
 
   | [`Back To Top`](#contents) |
+
 
 
 
