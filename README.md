@@ -385,6 +385,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **K**
 
+  - [Karthik](https://github.com/kartheekmule)
   - [Kushal Gupta](https://github.com/khush200145)
   - [Khushi Khurana](https://github.com/khushikhuranaa2)
   - [Kwinsi Thakkar](https://github.com/22bce355)
