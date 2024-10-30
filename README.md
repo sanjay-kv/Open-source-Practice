@@ -311,7 +311,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [khushi1315](https://github.com/khushi1315)
   - [Kruthi S B](https://github.com/kruthi-sb)
   - [Kartik Mehta](https://github.com/kartikmehta18)
-  - [Kashish Arora](https://github.com/kash-1007)
+  - [Kashish Arora](https://github.com/kash-1007) Already there!
 | [`Back To Top`](#contents) |
 
 - ### **L**
