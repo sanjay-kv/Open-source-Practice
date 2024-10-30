@@ -516,6 +516,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
 
+    - Pragya Singh(https://github.com/Woookiiee) 
 
     - [Preeti Deora](https://github.com/Preeti-deora)
 
