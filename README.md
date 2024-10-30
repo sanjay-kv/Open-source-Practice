@@ -519,8 +519,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
  | [`Back To Top`](#contents) |
 
 - ### **R**
-
-  - [Rahul](https://github.com/Sadhvika55)
+  - [Rishita Chourey](https://github.com/RishitaChourey)
+   - [Rahul](https://github.com/Sadhvika55)
 
   - [Rishita Rani](https://github.com/TechSenseiX)
   - [Rahuf khan](https://github.com/Rahufkhan)
