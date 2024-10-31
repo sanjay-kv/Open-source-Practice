@@ -649,6 +649,16 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **R**
+- [Rakshit](https://github.com/Rakshit-gen)
+- [Rana Jay](https://github.com/RanaJay3101)
+- [Ranjan Kumar Pandit](https://github.com/Ranj8521Kumar)
+- [Rees8 (Rhea)](https://github.com/rees8)
+- [Ritik Sinha](https://github.com/RitikSinha04)
+- [Ritik Singh](https://github.com/ritiksingh-01)
+- [Riya](https://github.com/Riya-221)
+- [Riya Arora](https://github.com/riyaarora954)
+- [Rudransh Pratap Singh](https://github.com/CoderFleet)
+
 
   - [Ravindra Kumar](https://github.com/Ravindrak0812) 
   - [Rohit](https://github.com/MrCodYrohit)
