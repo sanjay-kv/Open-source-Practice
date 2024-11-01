@@ -888,6 +888,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **V**
+
+  - [Varun Sethi](https://github.com/Varun-Sethi-Dev)
   -  [Vatsal](https://github.com/Vatsal-D07)
   - [Vaishali](https://github.com/Vaishali-ajmera)
 - [vaidehi](https://github.com/vaidehi134) |
