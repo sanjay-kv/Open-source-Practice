@@ -181,6 +181,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Akash Bharti](https://github.com/Akash19304)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
   - [Anushree mehta](https://github.com/anushreemehta6)
+  - [Aryan Karamtoth](https://github.com/spaciouscoder78)
+  - [Arshnoor Kaur](https://github.com/ArshnoorKaur21)
   - [Anirudh Yellamraju](https://github.com/anirudh-why)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
   -  [Anushree mehta](https://github.com/anushreemehta6)
@@ -351,7 +353,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
   | [`Back To Top`](#contents) |
-
 
 - ### **B**
   - [Benak Deepak](https://github.com/benakdeepak)
