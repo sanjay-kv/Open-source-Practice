@@ -862,13 +862,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tanishq Singh](https://github.com/singhtanishq)
   -  [Tanya Nagpal](https://github.com/Tanya-Nagpal)
   - [Tanish Rai](https://github.com/Tanish2510)
-
   - [T Rahul Prabhu](https://github.com/T-Rahul-prabhu-38)
   - [T.Manas](https://github.com/tmanas06)
   - [Teejay](https://github.com/teejay)
-
+  - [Teja Kumar](https://www.github.com/TejaKumar123)
   - [Tuba Khan](https://github.com/tubakhxn)
-[Tanaya](https://github.com/Tanaya-1-2-3)
+ - [Tanaya](https://github.com/Tanaya-1-2-3)
   - [Tanisha](https://github.com/tanisha290)
 
   - [Tanmay Deopurkar](https://github.com/tanmays62343)
