@@ -369,6 +369,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **B**
   - [Benak Deepak](https://github.com/benakdeepak)
   - [Bharat Singh Parihar](https://github.com/bharat3645)
+  - [Bhuvan Goel](https://github.com/bhuvangoel04)
   - [Bindu Sree](https://github.com/Bindusree1515)
   - [Bingumalla Likith](https://github.com/binguliki)
   - [Bharath Vasarla](https://github.com/Bharathhh30)
@@ -380,7 +381,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Bharat Singh Parihar](https://github.com/bharat3645)
 -[Bodisatwa Dutta](https://github.com/BDutta18)
 -[Bhanusri Viswanadhapalli](https://github.com/VBhanusr)
-
 
 | [`Back To Top`](#contents) |
 
