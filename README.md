@@ -554,29 +554,23 @@ A GitHub conflict is when people make changes to the same area or line in a file
   | [`Back To Top`](#contents) |
 
 - ### **M**
-
+ - [Madhu Lokesh](https://github.com/Madhu-mac)
   - [Menka](https://github.com/codewithishu)
   - [Muskaan](https://github.com/MuskaanMohta)
 -[Musfiraa](https://github.com/Mooosiee) |
   - [Moutama Rakshit](https://github.com/moutamarakshit) 
   - [Muhammad Baqir](https://github.com/mb-aarfi)
 - [Maddu Harshitha](https://github.com/MadduHarshitha30) |
-
   - [Madhuri](https://github.com/Madhuri36)
 - [Mitul Dwivedi](https://github.com/Mitul1927)
   - [Mrigaank Jaswal ](https://github.com/Mrigaank-9)
 -[`Manya`](https://github.com/DownOnCoffee) |
  - [Mohit Solanki](https://github.com/mohit2202solanki)
   -  [Mukul Rajput](https://github.com/MUKUL-RAJPUT2004)
-
   - [Mohit](https://github.com/Mohitgit22)
-
  - [Mitva Gami](https://github.com/MitvaGami)
-
   - [Meet Arora](https://github.com/meetarora10)
-
   - [Mohit Gupta](https://github.com/mtg718)
-
   -[Muskan Jodhani](https://github.com/muskan18113)
   - [Madhurima Roy](https://github.com/Madhurima-R04)
   - [Mukta Chaudhari](https://github.com/Mukta64Chaudhari)
