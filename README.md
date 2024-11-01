@@ -363,6 +363,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **C**
+
+  - [Chirag Tomar](https://github.com/chirag-tomar2003)
   - [Chalsi Jain] (https://github.com/Chelsea67jain)
   - [Chalsi Jain](https://github.com/Chelsea67jain)
   - [Chanmeet Kaur](https://github.com/chanmeet01)
