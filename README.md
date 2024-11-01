@@ -720,6 +720,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **R**
 
+  - [RoyalSachan](https://github.com/royalsachan)
   - [Rimi Singh](https://github.com/singhrimiumesh) 
   -  [Rahul Yadav](https://github.com/rahul-2004-json)
   - [Rama](https://github.com/ramajaiswal08)
