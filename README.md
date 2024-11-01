@@ -479,20 +479,16 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **J**
 
+  -  [Jaishree](https://github.com/Jaishree-baskaran)
   -[jayashree behera](https://github.com/Jayashree-04)
-
   - [Jansi Sabharwal](https://github.com/JansiSabharwal05)
   - [Jyotsna Singh](https://github.com/Akki-58)
-- [Jyothsna](https://github.com/JyothsnaThangudu) |
+- [Jyothsna](https://github.com/JyothsnaThangudu) 
   - [Japneet Kaur](https://github.com/Japneet001)
-
   - [Jayesh Pandey](https://github.com/jayeshpandey01)
-
  - [Jinam Sancheti](https://github.com/jinamsancheti)
   - [Jisha-TR](https://github.com/Jisha-tr)
-
   - [Jeet Das](https://github.com/JeetDas5)
-
   - [Tanisha Bansal](https://github.com/TanishaBansal101)
   - [Janeesh](https://github.com/janeeshgithub)
   - [Jeba Rachel Nesica](https://github.com/Jeba-Rachel-Nesica)
