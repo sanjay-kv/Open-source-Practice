@@ -544,6 +544,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **K**
 
+  - [Khushi Pardeshi](https://github.com/khuship23)
   - [Kalyan Chakraborty](https://github.com/Kalyan9064)
   - [K Pavan Kumar](https://github.com/pavankumar4404)
   - [Kartik Raj](https://github.com/KartikRajOfficial)
@@ -584,8 +585,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 | [`Back To Top`](#contents) |
-
-
 
 - ### **L**
 
