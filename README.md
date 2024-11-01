@@ -537,17 +537,15 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **L**
 
-      -[Lalith Kumar Allu](https://github.com/LalithKumar77)
- - [Likhith Mr](https://github.com/likhith-mr)
-
+  - [Laxmi](https://github.com/Laxelspal)
+  - [Lalith Kumar Allu](https://github.com/LalithKumar77)
+  - [Likhith Mr](https://github.com/likhith-mr)
   - [Lovely Mahour](https://github.com/lovelymahor)
   - [Likhil N Maiya](https://github.com/lickhill)
   - [Lavany Sai Bollamreddi](https://github.com/lavanyasai-b)
   - [Laxmi Kandivalasa](https://github.com/laxmi47)
 
   | [`Back To Top`](#contents) |
-
-
 
 - ### **M**
 
