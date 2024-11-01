@@ -622,7 +622,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **N**
-
+  - [Nitisha Patil](https://github.com/Pat25Taylor)
   - [Niharika Behera](https://github.com/Niharika-Behera)
   - [Nisarga G R](https://github.com/nisargaa20)
   -   [Nihal Somarajupalli](https://github.com/Nihal-Somarajupalli)
