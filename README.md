@@ -1111,11 +1111,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **Y**
 
+-  [Yuvraj Singh](https://github.com/yuvraj-singh009)
   - [Yathish G P](https://github.com/YathishGP003)
   -  [Yeshaswi](https://github.com/yp9435)
-  -  [YASHIKA KEDIA](https://github.com/yashikakedia) |
-
--[YASH_SRIVASTAVA](https://github.com/yash21sriv) |
+  -  [YASHIKA KEDIA](https://github.com/yashikakedia) 
+-[YASH_SRIVASTAVA](https://github.com/yash21sriv) 
   - [Yash Tyagi](https://github.com/yash-tyagi-2003)
   - [Yashika Garg](https://github.com/yashi-025)
   - [Yatin Sabikhi](https://github.com/Yatin-Sabikhi)
