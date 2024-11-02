@@ -1043,6 +1043,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [T Rahul Prabhu](https://github.com/T-Rahul-prabhu-38)
   - [T.Manas](https://github.com/tmanas06)
   - [Teejay](https://github.com/teejay)
+  - [Tarun](https://github.com/Tarungupta18)
   - [Tejaswi](https://github.com/TejaswiKandunuri)
   - [Tejasri](https://github.com/Tejasri-Pendota)
   - [Tejaswini](https://github.com/Tejaswini-628)
@@ -1051,12 +1052,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tuba Khan](https://github.com/tubakhxn)
  - [Tanaya](https://github.com/Tanaya-1-2-3)
   - [Tanisha](https://github.com/tanisha290)
-
   - [Tanmay Deopurkar](https://github.com/tanmays62343)
   - [Tushar Bansal](https://github.com/Tusharb331)
   - [TR](https://github.com/TR)
   - [TR.1](https://github.com/TR)
  - [theritwik](https://github.com/theritwik)
+  
+  | [`Back To Top`](#contents) |
 
 - ### **U**
 
