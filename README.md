@@ -47,8 +47,12 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 
 **1. Fork the project:**
 
-- Click the gray <kbd>Fork</kbd> button at the top right of the previous page. This creates your copy of the project and saves it as a new repository in your GitHub account.
-  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8244b3df-7904-4f07-9447-7962cb504a34)
+- Click the gray <kbd>Fork</kbd> button at the top right of the previous page. This creates your copy of the project and saves it as a new repository in
+  your GitHub account.
+
+
+  ![image](https://github.com/user-attachments/assets/2db96458-7459-407d-853d-476e26c67c36)
+
 
 **2. Clone this project on your computer:**
 
@@ -56,7 +60,10 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
-  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/9c41e4fe-438b-4747-8789-ff75e092fef9)
+
+  
+ ![image](https://github.com/user-attachments/assets/80bfb4a8-ad1a-4761-b8c6-8078fd9c5d03)
+
 
 ```bash
   git clone https://github.com/GSSoC24/being-an-GSSoc24.git
