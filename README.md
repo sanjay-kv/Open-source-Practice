@@ -525,13 +525,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **I**
-
+-  [Ishita Saxena](https://github.com/ShadowyBliss)
+  - [Itisha](https://github.com/itishacodes)
   - [Itish](https://github.com/emadcode)
   - [Emad](https://github.com/emadcode)
-
-
   - [Inam Yadav](https://github.com/INam1995)
-
   - [Ishika Brar](https://github.com/IshikaBrar21)
   - [Isha Prajapati](https://github.com/ishap11)
   - [Ishitva Joshi](https://github.com/Ishitva744)
