@@ -480,14 +480,15 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **F**
 
+  - [Faiz Shaikh](https://github.com/Faiz-Shaikh-16)
   - [Fenil Patel](https://github.com/fenil-ptl)
-
   - [Farhat Momin](https://github.com/farhattt-1203)
   - [Fahmitha Farhana](https://github.com/fah-04)
   - [Tatheer Fathima](https://github.com/T-Fathima)
 
   
   | [`Back To Top`](#contents) |
+
 
 
 - ### **G**
