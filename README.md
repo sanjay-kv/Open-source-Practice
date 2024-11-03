@@ -889,8 +889,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **R**
+  - [Rahul Somani](https://github.com/somani-rahul)
 
-  - [Ruchita](https://github.com/Ruchita019)
   - [reezybreeze](https://github.com/sanjay-kv)
   - [Rohan Vasudev](https://github.com/rex-pi)
   - [Riya Yadav](https://github.com/R1ya4git) 
