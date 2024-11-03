@@ -1,4 +1,3 @@
-
 # Open-source-Practice
 
 ## open-source-practice Pull Requests
@@ -932,19 +931,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Rohit Mukherjee](https://github.com/rickyrick23)
 - [Riya Sudrik](https://github.com/jigglypufflazybaby)
 - [Rao Shreyank Reddy](https://github.com/shreyank-reddy)
-
+- [Rydham](https://github.com/rydhamguptaa) 
 
 | [`Back To Top`](#contents) |
 
-
-
-
-
-
-- [Rydham](https://github.com/rydhamguptaa) 
-
  - ### **S**
 
+  - Sameeksha Gupta link: https://github.com/sameekshaagupta
     -  [Sai](https://github.com/SaiKumar297)
     -  [Shubhi](https://github.com/ShubhiGupta20)
     -  [Satyam-Pratibhan](https://github.com/SATYAM-PRATIBHAN)
