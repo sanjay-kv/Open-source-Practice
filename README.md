@@ -783,6 +783,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
  - ### **P**
 
+    - [Purnima Shrivastava](https://github.com/purn1ma)
     - [Pruthviraj Desale](https://github.com/pruthviraj-desale) 
     - [Piyush Bagde](https://github.com/PiyushBagde)
     -  [Piyush Gupta](https://github.com/PiyushG29)
