@@ -888,9 +888,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Pranamya G Kulal](https://github.com/spacedust26)
     - [Prashant Anand](https://github.com/PrashantAnand03)
     - [Priyal_Adesara](https://github.com/priyaladesara)
-
+    - [Pranjal](https://github.com/pranjal-kotkar)
     - [Pragyan Thapa](https://github.com/pragyanthapa)
- 
     - [Poorti Jain](https://github.com/poortii)
     - [Prince Choudhury](https://github.com/Prince-Choudhury)
     - [Puneet Tiwari](https://github.com/puneet426)
