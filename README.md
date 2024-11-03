@@ -759,6 +759,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
  - ### **P**
 
+    - [Pruthviraj Desale](https://github.com/pruthviraj-desale) 
     - [Piyush Bagde](https://github.com/PiyushBagde)
     -  [Piyush Gupta](https://github.com/PiyushG29)
      - [Pavan Gowda T S](https://github.com/pavants777)
@@ -766,31 +767,21 @@ A GitHub conflict is when people make changes to the same area or line in a file
      - [Pragya Kumari] (https://github.com/pragyamyra)
      - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
     - [Prince Gupta](https://github.com/Princegupta101)
-
      - [Payal Kumari](https://github.com/PayalKumari10)
      - [PRANSHU CHAURASIA](https://github.com/MrPC7)
      - [Prajwal D P](https://github.com/prajwaldp223)
      - [Pearl Ochani](https://github.com/Pearlochani131677)
      - [Piyush Bagde](https://github.com/PiyushBagde)
-
      - [demo](https://github.com/demo)
-
     - [Prince Gupta](https://github.com/Princegupta101)
-
     - [prudhvi](https://github.com/Prudhvi-232)
     - [Pranav Bansal](https://github.com/Prannav-Bansal)
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
-
     - Pragya Singh(https://github.com/Woookiiee) 
-
     - [Preeti Deora](https://github.com/Preeti-deora)
-
     - [Pranavi Mehta](https://github.com/pranavimehta13)
-
     - [Pranavi Srinivasula](https://github.com/Pranavi-04)
-
     - [Partha Sarathi Panda](https://github.com/PSP2706)
-
     - [Preethi Kamal](https://github.com/preethikamal)
     - [Pearl Vashistha](https://github.com/pearll12)
     - [Pavan Gowda T S](https://github.com/pavants777)
