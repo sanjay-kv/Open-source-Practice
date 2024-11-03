@@ -1,11 +1,14 @@
-# Open-source-Practice
+# Open source Practice
 
-## open-source-practice Pull Requests
-## Follow these steps carefully to ensure a smooth contribution process!
+## 🚀 Open-source-practice Pull Requests
+## 🔗 Follow these steps carefully to ensure a smooth contribution process!
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉 
+This repository is designed for you to raise a Pull Request to **practice** open-source! 🎉
 
-### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
+### ✍️ Instructions
+- Add your name to the alphabetical list below.
+- You can also add a link to your GitHub account if you’d like!
+- Make sure to add your name in **alphabetical order** within your letter.
 
 ### Option 1. Complete this process in GitHub (in your browser)
 
@@ -749,6 +752,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **N**
 
+  - [Neeru Gangarh](https://github.com/neeru24)
   - [NanoBot](https://github.com/KanishkChhajed)
   - [Neyna Nayak](https://github.com/neyhere07)
   - [Naveen](https://github.com/mishra-naveen-dev)
