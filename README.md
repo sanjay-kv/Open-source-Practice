@@ -503,10 +503,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **E**
 
+  - [Ellen Rose James](https://github.com/ellen-rose-james)
   - [EmadCoder](https://github.com/emadcode)
-
-
-  - [EswarPesala](https://github.com/EswarPesala)
+ - [EswarPesala](https://github.com/EswarPesala)
   -  [Eshika Pawar](https://github.com/Eshika-Pawar) 
   - [Eunice Adewusi](https://github.com/eadewusic)
   - [Eshita Das](https://github.com/Edasgh)
