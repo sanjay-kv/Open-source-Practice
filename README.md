@@ -518,6 +518,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **F**
 
+  - [ Fenil Patel ](https://github.com/fenil-ptl)
   - [Faiz Shaikh](https://github.com/Faiz-Shaikh-16)
   - [Fenil Patel](https://github.com/fenil-ptl)
   - [Farhat Momin](https://github.com/farhattt-1203)
@@ -526,7 +527,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   
   | [`Back To Top`](#contents) |
-
 
 
 - ### **G**
