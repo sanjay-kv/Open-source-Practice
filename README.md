@@ -518,6 +518,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **H**
 
+  - [Harsh Patel](https://github.com/Harsh260105)
   - [Himanshu](https://github.com/1Himanshu1)
   - [Harshil Tomar](https://github.com/harshiltomar)
   - [HARSHJOSHI](https://github.com/harshjoshi1312)
@@ -548,7 +549,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Harshita Joshi](https://github.com/harshita2303)
   
   | [`Back To Top`](#contents) |
-
 
 
 
