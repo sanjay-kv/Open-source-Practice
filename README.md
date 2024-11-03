@@ -708,6 +708,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **M**
 
+  - [Mani Dixit](https://github.com/manidixit51)
   - [Muskan](https://github.com/muskan191103)
   - [MuraliDharan](https://github.com/MuraliDharan7)
    - [Mahendra kumawat](https://github.com/mk016)
