@@ -1150,6 +1150,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [TR](https://github.com/TR)
   - [TR.1](https://github.com/TR)
  - [theritwik](https://github.com/theritwik)
+ - [Tanushree Bagde](https://github.com/Tanushree084)
   
   | [`Back To Top`](#contents) |
 
