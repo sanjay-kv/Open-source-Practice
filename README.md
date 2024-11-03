@@ -705,7 +705,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 
-- ### **M**
+- ### **M** patch-1
+  - [MuraliDharan](https://github.com/MuraliDharan7)
 
    - [Mahendra kumawat](https://github.com/mk016)
   - [Md. Taqui Ansari](https://github.com/taquiansari)
@@ -749,12 +750,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muhammad Shoaib Khan](https://github.com/msk21shoaib)
   - [MD REHAN](https://github.com/REHAN-18)
 - [Meenal Saini](https://github.com/meenal900)
+ - [Manvi Haritwal](https://github.com/manviii27)
 - [Md Aiyaz Ansari](https://github.com/mdaiyaz940)
 - [Meet Shah](https://github.com/Meetpidev)
-
-
 | [`Back To Top`](#contents) |
-    - [Manvi Haritwal](https://github.com/manviii27)
+   
 
 
 - ### **N**
