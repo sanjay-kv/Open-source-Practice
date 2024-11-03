@@ -1122,6 +1122,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **T**
 
+- [Tanishka](https://github.com/tanishkasaxena)
+- [Tanmay Deopurkar](https://github.com/tanmays62343)
+- [Teejay](https://github.com/teejay)
+- [Tejas Gupta](https://github.com/multiverseweb)
+- [T.Manas](https://github.com/tmanas06)
   - [Tulika](https://github.com/tulikaa25)
   - [Tina](https://github.com/tinaa25)
   - [Tuhin Subhra](https://github.com/tuhinsubhra)
