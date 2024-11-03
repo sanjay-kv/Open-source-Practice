@@ -406,12 +406,15 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Baba Sekhar](https://github.com/babasekhar)
   - [Bharat Singh Parihar](https://github.com/bharat3645)
+
+
   - [Basireddy Sreehitha](https://github.com/Sreehithabasireddy666)
   - [Badveli Havishya](https://github.com/havishyareddy)
   - [Biswajeet yadav](https://github.com/biswajeetyadavv)
   - [Bhuvana Kadiyam](https://github.com/bhuvanakadiyam)
   - [Benak Deepak](https://github.com/benakdeepak)
   - [Bhuvan Goel](https://github.com/bhuvangoel04)
+
   - [Bindu Sree](https://github.com/Bindusree1515)
   - [Bingumalla Likith](https://github.com/binguliki)
   - [Bharath Vasarla](https://github.com/Bharathhh30)
@@ -424,6 +427,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 -[Bodisatwa Dutta](https://github.com/BDutta18)
 -[Bhanusri Viswanadhapalli](https://github.com/VBhanusr)
 -[Boya Surabhi](https://github.com/Surabhiboya) 
+
 
 | [`Back To Top`](#contents) |
   
@@ -526,7 +530,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Gayathri](https://github.com/GayathriPCh)
   - [Gopikrishnan](https://github.com/gopi-trip)
   - [G Rutvik Sharma](https://github.com/Rutvik-121)
-  - [Garvit](https://github.com/garvit-exe)
   - [Gaurav](https://github.com/Gaurav-576/)
   - [Greesma](https://github.com/Greesma-225B1)
   - [Greeshma G](https://github.com/greeshma275)
@@ -746,6 +749,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muhammad Shoaib Khan](https://github.com/msk21shoaib)
   - [MD REHAN](https://github.com/REHAN-18)
 - [Meenal Saini](https://github.com/meenal900)
+- [Md Aiyaz Ansari](https://github.com/mdaiyaz940)
 
 
 | [`Back To Top`](#contents) |
@@ -992,8 +996,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
     -  [Sasidhara Kashyap Chaturvedula](https://github.com/sasidhara-kashyap0903)
     -  [Swapnil Srivastava](https://github.com/Swapnilden/)
     -  [Shereen](https://github.com/shereen-24)
-     -  [Siddharthaa Srivastava](https://github.com/Shrid55)
-    -  [Spandan](https://github.com/Spandan-Mishra)
      -  [Srivardhan Kondu](https://github.com/srivardhan-kondu)
     -  [Saketh](https://github.com/Saketh1714)
     -  [Shubhra Narang](https://github.com/Shubhra-Narang)
