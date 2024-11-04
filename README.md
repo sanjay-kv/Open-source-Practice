@@ -760,6 +760,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [MuraliDharan](https://github.com/MuraliDharan7)
   - [Mahima](https://github.com/mahimakathpal)
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
+  - [Mahathi](https://github.com/mahathipuppala)
   - [Manya](https://github.com/nksmanya)
   - Mihir Phalke (https://github.com/mihirphalke1)
   - [Macha Varshitha](https://github.com/Varshitha713)
