@@ -597,6 +597,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **I**
 -  [Ishita Saxena](https://github.com/ShadowyBliss)
   - [Itisha](https://github.com/itishacodes)
+  - [Irfan](https://github.com/irfanbroo)
   - [Isha](https://github.com/isha2125)
   - [Ishpuneet Singh](https://github.com/ips610)
   - [Ishita](https://github.com/CoderGirl2844)
