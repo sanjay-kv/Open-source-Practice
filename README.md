@@ -178,6 +178,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **A**
 
+  - [Aditi Arya](https://github.com/aditi29400)
   - [Avilash](https://github.com/avilash01)
    - [Arun Kumar](https://github.com/arun7kumarr)
   -  [Aditi jha](https://github.com/aditijha-123)
@@ -200,6 +201,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Arshnoor Kaur](https://github.com/ArshnoorKaur21)
   - [Anirudh Yellamraju](https://github.com/anirudh-why)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
+  -  [Anushree mehta](https://github.com/anushreemehta6)
   - [Anushree mehta](https://github.com/anushreemehta6)
   - [Arya Kesharwani](https://github.com/aryak-1)
   - [Anushka Sharma](https://github.com/Anushka-Sharma-008)
@@ -306,6 +308,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Abhishek Agarwal](https://github.com/AbhiBab)
   - [Aditi Kapil](https://github.com/Aditi31kapil)
   - [Aksh Maheshwari](https://github.com/AkshMaheshwari)
+  - [Aditya Sharma](https://github.com/Adirealsharma)
   - [Aiswarya Chandrasekharan](https://github.com/Techkunjan)
   - [Arshad Khan](https://github.com/Arshadkh123)
   - [Aishwaryaa](https://github.com/aishwaryaa-coder101)
@@ -616,6 +619,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **J**
+
+  - [Jainam](https://github.com/JainamOswal18)
   - [junain Davids](https://github.com/junluck)
   - [jyoshna dasari](https://github.com/jyoshnadasari)
   - [Jehan](https://github.com/JehanPatel)
@@ -640,6 +645,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Jeba Rachel Nesica](https://github.com/Jeba-Rachel-Nesica)
   - [Jahnavika gopal](https://github.com/JahnavikaGopalbvrith)
     | [`Back To Top`](#contents) |
+
 
 
 - ### **K**
@@ -979,6 +985,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
  - ### **S**
 
+ - [Sam](https://github.com/samgupta221)
   - Sameeksha Gupta link: https://github.com/sameekshaagupta
     -  [Sai](https://github.com/SaiKumar297)
     -  [Shubhi](https://github.com/ShubhiGupta20)
@@ -1309,12 +1316,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **Z**
+
+  - [Zubaida Sehnaz](https://github.com/Zubaida0113)
   - [ZEUGANG WILSON PRODIGE](https://github.com/wilsonprodige)
-
   - [Zoey](https://github.com/zoey-11)
-
-  - |- [Zeba](https://github.com/zeba62) |
-
   | [`Back To Top`](#contents) |
 
 ## Our Pledge
