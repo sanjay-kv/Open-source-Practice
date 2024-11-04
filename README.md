@@ -539,6 +539,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **G**
 
+  - [Gayatri](https://github.com/gayu999Code)
   - [G Avineshwar](https://github.com/GAVINESHWAR)
   - [Gauri](https://github.com/gauribahuguna21)
   - [Gssoc](https://github.com/GSS0C24)
