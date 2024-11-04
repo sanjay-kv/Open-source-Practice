@@ -469,6 +469,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **D**
+
+- [Domakonda Anirudh](https://github.com/anirudh2843)
   - [Darshan T S](https://github.com/Darshants6364)
   - [Deepak lumar shah](https://github.com/deepak9285)
   -[Dharani Neelapuram](https://github.com/Bhoomidhanu12)
