@@ -414,7 +414,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
  -  [Akulla Mudunuri](https://github.com/22wh1a12a4)
  -  [Amrutha Gogireddy](https://github.com/amrutha1215)
  -  [Akshitha Chiluka](https://github.com/AKSHITHA-CHILUKA)
-
+- [Amulya Jain](https://github.com/AmulyaJain2004)
   | [`Back To Top`](#contents) |
 
 
