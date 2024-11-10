@@ -9,3 +9,5 @@ Hi gssoc-ext These are the PR i have raised but they haven't been merge..
 (4) https://github.com/Soujanya2004/wanderlust-2024/pull/518#issue-2645873268 = level 2 PR., issue = #480
 
 (5) https://github.com/sakeel-103/DFS-BFS-Graph-Travers/pull/610#issue-2646881332 = level 2 PR, issue = #561
+
+(6) https://github.com/iamrahulmahato/master-web-development/pull/2385#issue-2646925778 = LEVEL 1 pr, ISSUE = #2062
