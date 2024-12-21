@@ -90,7 +90,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 ```bash
   cd being-an-GSSoc24
 ```
-
+ssadasda
 **3. Open in code Editor:**
 
 - Open the `README.md` file
