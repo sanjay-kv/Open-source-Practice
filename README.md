@@ -103,7 +103,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
   ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8eee07c1-120b-4022-8677-932b4dbe89d5)
 
 ```bash
-  git checkout -b <name-of-new-branch>
+  git checkout -b <name-of-new-branch> ..
 ```
 
 **5. Edit the File:**
@@ -112,7 +112,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [Full Name](https://github.com/your-username)` ..
 
 **5. Stage your changes:**
 
