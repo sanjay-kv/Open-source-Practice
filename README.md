@@ -2,20 +2,7 @@
 
 <h1 align="center">Open-source-Practice</h1>
 <div align="center">
-  
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<a href="https://github.com/sanjay-kv/Open-source-Practice/stargazers"><img src="https://img.shields.io/github/stars/sanjay-kv/Open-source-Practice" alt="Stars Badge"/></a>
-<a href="https://github.com/sanjay-kv/Open-source-Practice/network/members"><img src="https://img.shields.io/github/forks/sanjay-kv/Open-source-Practice" alt="Forks Badge"/></a>
-<a href="https://github.com/sanjay-kv/Open-source-Practice/pulls"><img src="https://img.shields.io/github/issues-pr/sanjay-kv/Open-source-Practice" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/sanjay-kv/Open-source-Practice/issues"><img src="https://img.shields.io/github/issues/sanjay-kv/Open-source-Practice" alt="Issues Badge"/></a>
-<a href="https://github.com/sanjay-kv/Open-source-Practice/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sanjay-kv/Open-source-Practice?color=2b9348"></a>
-<a href="https://github.com/sanjay-kv/Open-source-Practice/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sanjay-kv/Open-source-Practice?color=2b9348" alt="License Badge"/></a>
-[![](https://visitcount.itsvg.in/api?id=opensource&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-This is the all in one place for documentation help regarding the postman challenge.
-</div>
 
 
 I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨
@@ -103,7 +90,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
   ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8eee07c1-120b-4022-8677-932b4dbe89d5)
 
 ```bash
-  git checkout -b <name-of-new-branch>
+  git checkout -b <name-of-new-branch> ..
 ```
 
 **5. Edit the File:**
@@ -112,7 +99,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [Full Name](https://github.com/your-username)` ..
 
 **5. Stage your changes:**
 
