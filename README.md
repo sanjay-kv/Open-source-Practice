@@ -112,7 +112,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [Mercure Nzomono](https://github.com/TatyOko28)`
 
 **5. Stage your changes:**
 
@@ -130,7 +130,7 @@ or
 ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/e22f8f77-74e9-42a8-af0c-9caa23f5020b)
 
 ```bash
-  git commit -m "Add <your-github-username>"
+  git commit -m "Add <your-github-TatyOko28>"
 ```
 
 - Check the status of your repository.
