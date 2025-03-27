@@ -693,6 +693,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **K**
   -[Khushi Dua](https://github.com/Khushi-Dua)
   - [Kashika Gupta](https://github.com/KGupta2601)
+  -  [Kavindya Sewmini Perera](https://github.com/Kavisperera)
   - [Khushi](https://github.com/khushikumari239)
   - [Ketan Sharma](https://github.com/ketan270)
   - [Kapil Kharera](https://github.com/Kapil-Kharera)
