@@ -556,6 +556,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **F**
 
+  - [Fozik](https://github.com/SimplyFozik)
   - [ Fenil Patel ](https://github.com/fenil-ptl)
   - [Faiz Shaikh](https://github.com/Faiz-Shaikh-16)
   - [Fenil Patel](https://github.com/fenil-ptl)
