@@ -633,6 +633,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
 - ### **I**
+- [Ishit](https://github.com/ia4226)
 - [Ishratnoori](https://github.com/Ishratnoori/)
 -  [Ishita Saxena](https://github.com/ShadowyBliss)
   - [Itisha](https://github.com/itishacodes)
