@@ -79,7 +79,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
-  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/9c41e4fe-438b-4747-8789-ff75e092fef9)
+  ![image](https://www.itsolutionstuff.com/upload/github-pro-2.png)
 
 ```bash
   git clone https://github.com/GSSoC24/being-an-GSSoc24.git
