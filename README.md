@@ -45,7 +45,7 @@ flowchart LR
 **1. Fork the project:**
 
 - Click the gray <kbd>Fork</kbd> button at the top right of the previous page. This creates your copy of the project and saves it as a new repository in your GitHub account.
-  ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/a50b0ed1-84b6-4254-bd7c-d8dbb2839466)
+  ![image](https://th.bing.com/th/id/OIP.XR0WvxQkez0JPWDYHetRQwHaCS?w=342&h=108&c=7&r=0&o=7&pid=1.7&rm=3)
 
 **2. Create a New Branch:**
 
