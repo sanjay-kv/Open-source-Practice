@@ -480,6 +480,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 -[Boya Surabhi](https://github.com/Surabhiboya)
 -[Kudiguntolu Bhavani](https://github.com/bhavanireddy57)
 -[Pratik Raval](https://github.com/PratikRaval123)
+-[Nutexe999](https://github.com/Nutexe999)
 
 | [`Back To Top`](#contents) |
 
