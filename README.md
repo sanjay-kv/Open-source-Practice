@@ -920,6 +920,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Pranav Bansal](https://github.com/Prannav-Bansal)
     - [Pratham Vishwakarma](https://github.com/Pratham-Vishwakarma)
     - Pragya Singh(https://github.com/Woookiiee)
+    - [Pragati Dhobale](https://github.com/pragatidh)
     - [Preeti Deora](https://github.com/Preeti-deora)
     - [Pranavi Mehta](https://github.com/pranavimehta13)
     - [Pranavi Srinivasula](https://github.com/Pranavi-04)
