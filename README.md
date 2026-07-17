@@ -890,6 +890,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Neha Sahu](https://github.com/Neha2580)
   - [Nishtha Maheshwari](https://github.com/nishthaa-m)
   - [Namratha N](https://github.com/namratha31)
+  - [Pixel Devid](https://github.com/kenji-villa)
 | [`Back To Top`](#contents) |
 
 - ### **O**
