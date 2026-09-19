@@ -117,7 +117,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 
 **5. Stage your changes:**
 
-```bash
+```bash '''
   git add README.md
 ```
 
