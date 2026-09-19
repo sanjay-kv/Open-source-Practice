@@ -2,7 +2,7 @@
 
 <h1 align="center">Open-source-Practice</h1>
 <div align="center">
-  
+  <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->\
 <!--UPDATED-->\
 
