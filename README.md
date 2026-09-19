@@ -117,7 +117,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 
 **5. Stage your changes:**
 
-```bash
+```bash '''
   git add README.md
 ```
 
@@ -1271,6 +1271,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - [Samriddhi Tiwary](https://github.com/samriddhitiwary)
 - [Sanskriti Mishra](https://github.com/sanskritim2302)
 -  [Shaanif ahmed](https://github.com/shaanif600)
+- [Simon Ouellet](https://github.com/simonouel23devop)
 | [`Back To Top`](#contents) |
 
 - ### **T**
