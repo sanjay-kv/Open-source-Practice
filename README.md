@@ -83,7 +83,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
   ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/9c41e4fe-438b-4747-8789-ff75e092fef9)
 
 ```bash
-  git clone https://github.com/GSSoC24/being-an-GSSoc24.git
+  git clone https://github.com/sudo-charan/Open-source-Practice.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window. ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/590d6314-70b9-478d-939f-3c0e1dcf4ab4)
